@@ -1,6 +1,6 @@
 import time
 import urllib.request
-from 爬虫所需模块 import Req, installOpener
+import Req, installOpener
 import json
 
 def getUrl():
